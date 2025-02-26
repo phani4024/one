@@ -11,7 +11,7 @@
   <header class="hero">
     <div class="hero-content">
       <h1> Phani modified some changes </h1>
-      <h1> Happy Shivaratri</h1>
+      <h1> Happy Shivaratri----- OM NAMA PARVATHI PARAMESHWARAYA NAMAH:</h1>
       <h1>Welcome to Home Of Beauty</h1>
       <p>Transforming spaces into your dream home</p>
       <a href="#contact" class="btn">Get Started</a>
