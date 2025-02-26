@@ -11,7 +11,6 @@
   <header class="hero">
     <div class="hero-content">
       <h1> Happy Shivaratri To Everyone </h1>
-      <h1> Feb/26/2025 </h1>
       <h1>OM NAMA PARVATHI PARAMESHWARAYA NAMAH:</h1>
       <h1>Welcome to Home Of Beauty</h1>
       <p>Transforming spaces into your dream home</p>
